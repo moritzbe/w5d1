@@ -1,0 +1,14 @@
+p {
+	font-size: 100px;
+}
+
+#table {
+	border: solid black 2px;
+	border-radius: 2px;
+}
+
+th {
+	border: 1px solid green;
+	width: 50px;
+	length:50px;
+}
